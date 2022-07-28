@@ -1,5 +1,3 @@
-
-# import requests
 import spacy
 
 import numpy as np
